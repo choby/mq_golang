@@ -66,7 +66,3 @@ func Publish() {
 		i++
 	}
 }
-
-func StringEncoder(s string) {
-	panic("unimplemented")
-}
